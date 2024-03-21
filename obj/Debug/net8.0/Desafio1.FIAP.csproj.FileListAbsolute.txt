@@ -1,0 +1,14 @@
+D:\Backup_16062023\Projetos\FIAP\Desafio1\Desafio1.FIAP\bin\Debug\net8.0\Desafio1.FIAP.exe
+D:\Backup_16062023\Projetos\FIAP\Desafio1\Desafio1.FIAP\bin\Debug\net8.0\Desafio1.FIAP.deps.json
+D:\Backup_16062023\Projetos\FIAP\Desafio1\Desafio1.FIAP\bin\Debug\net8.0\Desafio1.FIAP.runtimeconfig.json
+D:\Backup_16062023\Projetos\FIAP\Desafio1\Desafio1.FIAP\bin\Debug\net8.0\Desafio1.FIAP.dll
+D:\Backup_16062023\Projetos\FIAP\Desafio1\Desafio1.FIAP\bin\Debug\net8.0\Desafio1.FIAP.pdb
+D:\Backup_16062023\Projetos\FIAP\Desafio1\Desafio1.FIAP\obj\Debug\net8.0\Desafio1.FIAP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backup_16062023\Projetos\FIAP\Desafio1\Desafio1.FIAP\obj\Debug\net8.0\Desafio1.FIAP.AssemblyInfoInputs.cache
+D:\Backup_16062023\Projetos\FIAP\Desafio1\Desafio1.FIAP\obj\Debug\net8.0\Desafio1.FIAP.AssemblyInfo.cs
+D:\Backup_16062023\Projetos\FIAP\Desafio1\Desafio1.FIAP\obj\Debug\net8.0\Desafio1.FIAP.csproj.CoreCompileInputs.cache
+D:\Backup_16062023\Projetos\FIAP\Desafio1\Desafio1.FIAP\obj\Debug\net8.0\Desafio1.FIAP.dll
+D:\Backup_16062023\Projetos\FIAP\Desafio1\Desafio1.FIAP\obj\Debug\net8.0\refint\Desafio1.FIAP.dll
+D:\Backup_16062023\Projetos\FIAP\Desafio1\Desafio1.FIAP\obj\Debug\net8.0\Desafio1.FIAP.pdb
+D:\Backup_16062023\Projetos\FIAP\Desafio1\Desafio1.FIAP\obj\Debug\net8.0\Desafio1.FIAP.genruntimeconfig.cache
+D:\Backup_16062023\Projetos\FIAP\Desafio1\Desafio1.FIAP\obj\Debug\net8.0\ref\Desafio1.FIAP.dll
